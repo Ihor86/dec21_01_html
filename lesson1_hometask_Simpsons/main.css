@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+html, body {
+    scroll-behavior: smooth;
+}
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 {
+    background: aquamarine;
+    padding: 20px;
+}
+
+#logo {
+    width: 400px;
+    height: 250px;
+}
+li {
+    list-style: none;
+}
+
+img {
+    width: 200px;
+    padding-left: 40px;
+}
+
+
+.name {
+    padding: 5px;
+    background: #79ff5d;
+    color: blueviolet;
+    text-align: center;
+}
+
+p {
+    padding: 10px;
+    color: cadetblue;
+}
