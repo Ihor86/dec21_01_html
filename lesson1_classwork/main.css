@@ -1,0 +1,33 @@
+body {
+    background: bisque;
+    margin: 0;
+}
+
+h1 {
+    background: silver;
+    color: blue;
+    padding: 20px;
+    text-align: center;
+}
+
+p  {
+    color: brown;
+    padding: 20px;
+    text-align: center;
+}
+img {
+    width: 300px;
+    margin: 15px 50px;
+}
+h2, h3 {
+    padding: 5px;
+    text-align: center;
+}
+
+.target {
+    text-align: justify;
+}
+li {
+    list-style: none;
+    color: red;
+}
